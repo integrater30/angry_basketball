@@ -26,7 +26,7 @@ const monkey = {
 const hoop = {
   x: canvas.width - 100,
   y: 100,
-  width: 100,
+  width: 80,
   height: 50,
   speed: 2,
   direction: 1
